@@ -34,7 +34,8 @@ This project demonstrates a complete data analytics workflow analyzing **50,000+
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview]
+<div class='tableauPlaceholder' id='viz1770402170457' style='position: relative'><noscript><a href='#'><img alt='Dashboard 3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Am&#47;AmazonE-CommerceAnualDashboard&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AmazonE-CommerceAnualDashboard&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Am&#47;AmazonE-CommerceAnualDashboard&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1770402170457');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height='1027px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 **🔗 [View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/johari.frias/vizzes)**
 
@@ -140,30 +141,14 @@ END AS discount_tier
 
 ---
 
-## 🚀 How to Use This Project
-
-### Option 1: View the Dashboard
-Visit the [Tableau Public Dashboard](https://public.tableau.com/YOUR_PROFILE) to explore interactively.
-
-### Option 2: Run SQL Queries
-1. Set up PostgreSQL or SQL Server
-2. Import the cleaned Excel data
-3. Execute queries from `sql-queries/amazon_sales_analytics.sql`
-
-### Option 3: View Portfolio Page
-1. Clone this repository
-2. Open `portfolio/index.html` in a browser
-3. Or visit the hosted version at [YOUR_GITHUB_PAGES_URL]
-
----
 
 ## 📬 Contact
 
 **[Your Name]** - Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://www.linkedin.com/in/johari-f-37baa5210/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](johari19@outlook.com)
 
 ---
 
@@ -174,4 +159,5 @@ If you found this project helpful, please consider giving it a star! ⭐
 ---
 
 *Built with ❤️ for data-driven decision making*
+
 
