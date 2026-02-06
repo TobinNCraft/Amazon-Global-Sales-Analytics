@@ -36,7 +36,7 @@ This project demonstrates a complete data analytics workflow analyzing **50,000+
 
 ![Dashboard Preview](./assets/dashboard-preview.png)
 
-**🔗 [View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/YOUR_PROFILE)**
+**🔗 [View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/johari.frias/vizzes)**
 
 ---
 
@@ -174,3 +174,4 @@ If you found this project helpful, please consider giving it a star! ⭐
 ---
 
 *Built with ❤️ for data-driven decision making*
+
