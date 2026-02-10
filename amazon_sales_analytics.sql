@@ -2,7 +2,7 @@
 -- AMAZON GLOBAL SALES ANALYTICS
 -- SQL Analytical Queries for Portfolio
 -- ============================================
--- Author: [Your Name]
+-- Author: Johari Frias
 -- Database: PostgreSQL / SQL Server
 -- Dataset: Amazon Sales Data (50K+ records)
 -- ============================================
@@ -436,4 +436,5 @@ ORDER BY CASE
 -- =============================================
 -- For Tableau integration, export query results
 -- to CSV or connect directly to database
+
 -- =============================================
