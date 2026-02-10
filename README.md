@@ -144,7 +144,7 @@ END AS discount_tier
 
 ## 📬 Contact
 
-**[Johari Frias]** - Data Analyst
+**Johari Frias** - Data Analyst
 
 [![LinkedIn](https://www.linkedin.com/in/johari-f-37baa5210/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO_URL)
@@ -159,6 +159,7 @@ If you found this project helpful, please consider giving it a star! ⭐
 ---
 
 *Built with ❤️ for data-driven decision making*
+
 
 
 
