@@ -1,6 +1,5 @@
 # 📦 Amazon Global Sales Analytics
 
-> **End-to-End Data Analytics Project: From Raw Data to Executive Dashboard**
 
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/excel)
@@ -150,15 +149,10 @@ END AS discount_tier
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO_URL)
 [![Email](johari19@outlook.com)
 
----
 
-## ⭐ Show Your Support
 
-If you found this project helpful, please consider giving it a star! ⭐
 
----
 
-*Built with ❤️ for data-driven decision making*
 
 
 
